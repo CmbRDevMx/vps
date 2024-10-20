@@ -105,8 +105,30 @@ const flowBotsSecundario = addKeyword(['6', 'tipos de bots', 'automatización av
 // Flujo para creación de bots y sistemas automatizados
 const flowBots = addKeyword(['6', 'bots', 'automatización', 'crm'])
     .addAnswer([
-        '🤖 Ofrecemos bots personalizados para redes sociales.',
-        '\nEscribe *tipos de bots* para más detalles o *cotización* para contratar.',
+        '🤖 *Automatiza tu negocio con nuestros Bots Personalizados para Redes Sociales*',
+        '',
+        'Ofrecemos una amplia variedad de bots diseñados para mejorar la interacción con tus clientes y aumentar la eficiencia de tu negocio. Nuestros bots están disponibles para las siguientes plataformas:',
+        '',
+        '🔹 *Facebook Messenger*',
+        '🔹 *WhatsApp*',
+        '🔹 *Telegram*',
+        '🔹 *Discord*',
+        '🔹 *Instagram*',
+        '',
+        '✨ **Tipos de Bots que ofrecemos:**',
+        '1️⃣ *Bots de Atención al Cliente*: Responden automáticamente a preguntas frecuentes y guían a los usuarios.',
+        '2️⃣ *Bots de Ventas*: Automatizan el proceso de ventas, ayudando a gestionar pedidos y pagos.',
+        '3️⃣ *Bots de CRM*: Integración completa con CRM para gestionar y rastrear interacciones con clientes.',
+        '4️⃣ *Bots de Reservas*: Gestionan automáticamente reservas de citas o servicios.',
+        '5️⃣ *Bots Multicanal*: Funcionalidad cruzada en varias plataformas para un control centralizado.',
+        '',
+        '💼 **Planes y Precios**:',
+        'Contamos con varios tipos de precios según las necesidades de tu negocio:',
+        '🔹 *Plan Básico*: Ideal para pequeñas empresas que buscan automatización inicial en una sola plataforma.',
+        '🔹 *Plan Avanzado*: Incluye automatización en múltiples plataformas, ideal para empresas medianas.',
+        '🔹 *Plan Corporativo*: Automatización avanzada con integración CRM y funcionalidades personalizadas para grandes empresas.',
+        '',
+        'Escribe *"Tipos de Bots"* para más detalles sobre cada tipo de bot, o *"Cotización"* para recibir una oferta personalizada de acuerdo a tus necesidades.',
     ], null, null, [flowBotsSecundario]);
 
 // Flujo para cotización de servicios
